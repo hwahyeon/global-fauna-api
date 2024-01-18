@@ -1,1 +1,1 @@
-# global-fauna-api
+# Global Fauna: The Multilingual Animal Lexicon Project
